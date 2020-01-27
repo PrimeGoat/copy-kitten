@@ -1,0 +1,17 @@
+a {
+    padding: 25px;
+    color: white;
+    background-color: #3386c0;
+    border-radius: 16px;
+    text-transform: uppercase;
+    font-size: 30px;
+    text-decoration: solid;
+    backface-visibility: visible;
+    box-shadow: 0 5px 0 #1f5275;
+}
+
+a:hover {
+    background-color: #3ea1e8;
+    cursor: pointer;
+    box-shadow: none;
+}

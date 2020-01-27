@@ -9,3 +9,7 @@ body {
   justify-content: space-around;
   min-height: 800px;
 }
+
+iframe {
+  border: none;
+}

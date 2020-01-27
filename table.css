@@ -1,0 +1,27 @@
+a {
+    font-size: 25px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+
+a.top {
+    border-top: none;
+}
+
+a.left {
+    border-left: none;
+}
+
+a.right {
+    border-right: none;
+}
+
+a.bottom {
+    border-bottom: none;
+}
+
+div {
+    padding: 15px;
+
+}
